@@ -24,4 +24,3 @@ def get_sales_data():
     print(f"The data provided is {data_str}")
 
 get_sales_data()
-
